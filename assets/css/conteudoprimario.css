@@ -1,0 +1,10 @@
+.imagem_principal img {
+    width: 100%;
+    margin-top: 70px;
+}
+
+.imagem_principal h1 {
+    text-align: center;
+    margin-top: 30px;
+    font-family: "Beaufort for LOL Bold";
+}

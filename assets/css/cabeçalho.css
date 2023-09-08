@@ -1,0 +1,40 @@
+header {
+    background-color: #121212; 
+    color: white; 
+    padding: 10px 20px; 
+    display: flex;
+    justify-content: space-around; 
+    align-items: center; 
+    position:fixed;
+    width: 100%;
+}
+
+.logo img {
+    max-width: 110px; 
+}
+
+.botoes button {
+    padding: 4px 25px;
+    border: none;
+    border-radius: 10px; 
+    cursor: pointer;
+    margin-left: 10px;
+    font-family: "Beaufort for LOL Bold";
+    transition: background-color 0.3s, color 0.3s, opacity 0.3s;
+    font-size: 15px;
+}
+
+.iniciar_sessao{
+    background-color: #707070;
+    color: white;
+}
+
+.jogue_agora{
+    background-color: #72A8F9;
+    color: black;
+}
+
+.botoes button:hover{
+    opacity: 0.6;
+}
+
